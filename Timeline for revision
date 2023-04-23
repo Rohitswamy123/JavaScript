@@ -73,4 +73,23 @@ we need to pass as JSON.stringify(Obejct)*
 -> encapsulation -> process of wrapping properties and fnc withtin a single unit what class basically does -<
 --sometimes referred as data abstraction as well . 
 
+SOME KEYWORDS - > Class   |    Super()->parent class constructor   |   
+->creating a child class    -> class <name>  extends  <parent-class>
+                                 {
+                                   constructor()  -> it's own
+                                   {  
+                                      super() ->parent constructor after this we define everything 
+                                      }
+                                  }
+ 
+ 10. Execution context and Execution call stack 
+ 
+ ->JS is a single threaded synchronous prog. lang. by default 
+ GEC->Global execution context created when we call a script ->all variable are allocated a memory in phase 1 and executed in phase 2 
+ -- not sos diffrent from cPP 
+ 
+ 11. Asynchronous (Async) JS
+  -> notes further ahead in this ex-> setTimeout is an async js fnc 
+ 
+
 
