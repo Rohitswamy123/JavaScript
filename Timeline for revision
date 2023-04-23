@@ -1,1 +1,65 @@
+Basics : 
+ -> const
+ -> let
+ -> var
 
+2.Type conversion and string methods 
+
+->console.log(typeof String(a))  //string conversion
+->console.log(typeof number(a))  // number conversion
+
+->toString() method
+->slice , substring , substr 
+->replace , replaceAll
+->toUpperCase , toLowerCase
+->concat 
+->trimStart() , trimEnd()
+->split("," , "|" , " " )
+->to check all methods do string. -> a list will pop up 
+
+3.IF else , switch & loops
+->same as cPP no quite change 
+
+4. Array Methods 
+some important ->
+pop
+push
+shift
+unshift
+delete
+flat
+splice
+slice
+sorting in an array -> function(a,b) { return a-b}  sorts in ascending order
+
+
+5. Functions and scoping 
+
+6. DOM manipulation 
+
+7.Advanced Array Methods and callback fnc
+arr.find
+arr.forEach
+arr.map
+arr.reduce
+
+
+7. Event listerners 
+addEventListerner
+removeEvenetListener
+
+8. Local Storage and Session Storage 
+sessionStorage.setItem(key,value)
+sessionStorage.getItem(key)
+
+.removeItem
+.key
+
+also value are passed as stings if we want to pass objects 
+we need to pass as JSON.stringify(Obejct)*
+                   JSON.parse(String)*
+
+
+9. SetTimeout and setInterval 
+
+10.OOPS in javacscript 
