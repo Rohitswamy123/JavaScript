@@ -63,3 +63,14 @@ we need to pass as JSON.stringify(Obejct)*
 9. SetTimeout and setInterval 
 
 10.OOPS in javacscript 
+ ->objects and how can we play with an object 
+ ->diffrence b/w object and premitive data types
+ 
+->classes and inheritance in javascript 
+->𝐉𝐒 𝐡𝐚𝐬 𝐧𝐨 𝐚𝐜𝐜𝐞𝐬𝐬 𝐦𝐨𝐝𝐢𝐟𝐢𝐫𝐞𝐬 𝐭𝐡𝐚𝐭 𝐢𝐬 𝐩𝐮𝐛𝐥𝐢𝐜 𝐩𝐫𝐢𝐯𝐚𝐭𝐞 𝐚𝐧𝐝 𝐩𝐫𝐨𝐭𝐞𝐜𝐭𝐞𝐝
+
+->Abstraction ->displaying on essential info 
+-> encapsulation -> process of wrapping properties and fnc withtin a single unit what class basically does -<
+--sometimes referred as data abstraction as well . 
+
+
